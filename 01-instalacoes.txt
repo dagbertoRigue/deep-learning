@@ -1,0 +1,10 @@
+Instalações : 
+
+1°. instalar o Anaconda, caso ainda não tenha instalado.
+www.anaconda.com
+
+2°. abra no menu iniciar : anaconda prompt
+Instale o tensorflow : pip install tensorflow
+Após, instale o keras : pip install keras
+
+Será utilizado o Spyder para os desenvolvimentos, que vem instalado por padrão junto com o Anaconda.
